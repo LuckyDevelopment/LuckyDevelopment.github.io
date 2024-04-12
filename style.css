@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(20,20,20);
+    font-family: monospace;
+  
+    color: white;
+}
+
+#topHeader{
+    width: 97vw;
+    height: 97px;
+    background-color: rgb(40,40,40);
+    border: 2px  solid rgba(70,70,70,0.7);
+    border-radius: 5px;
+    text-align: center;
+}
+
+#header {
+    display:flex;justify-content:center;align-items:center;
+    
+}
+
+#Title  {
+    font-size: 30px;
+    transition: all 0.3s ease;
+    margin: 2px;
+}
+#Title:hover {
+    transform: scale(1.1);
+}
+
+#upperText {
+    width: 97vw;
+    height: 60px;
+    display: inline-block;
+}
+
+a {
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    display: inline-block;
+    background-color: rgb(60,60,60);
+    border-radius: 5px;
+    padding: 10px;
+    border: 2px  solid rgba(70,70,70,0.7);
+    margin: 10px;
+    transition: all 0.3s ease;
+}
+
+a:hover {
+    cursor: pointer;
+    background-color: rgb(75,75,75);
+    border: 2px  solid rgba(90,90,90,0.7);
+    transform: scale(1.2);
+}
