@@ -4,6 +4,44 @@ body {
   
     color: white;
 }
+html {
+    scroll-behavior: smooth;
+}
+.bug-fix {
+    margin: 5px;
+}
+p {
+    margin: 10px;
+    font-size: 15px;
+}
+
+.moving-div {
+    background-color: rgb(40,40,40);
+    overflow: auto; width: 520px; height:300px;
+    border: 2px  solid rgba(70,70,70,0.7);
+    border-radius: 15px;
+}
+button {
+    color: white;
+    font-family: monospace;
+    width: auto;
+    height: auto;
+    margin: 10px;
+    border: 2px dashed rgb(70,70,70);
+    border-radius: 5px;
+    background:rgb(60,60,60);
+    transition: all 0.3s ease;
+}
+button:hover {
+    
+    background-color: rgb(85,85,85);
+    transform: scale(1.1);
+    
+}
+button:active {
+    background-color: rgb(100,100,100);
+    transform: scale(1.15);
+}
 
 #topHeader{
     width: 97vw;
@@ -22,9 +60,7 @@ h2 {
     
 }
 
-p {
-    font-size: 15px;
-}
+
 
 #header {
     display:flex;justify-content:center;align-items:center;
@@ -70,3 +106,23 @@ a:hover {
     border: 2px  solid rgba(90,90,90,0.7);
     transform: scale(1.2);
 }
+pre code.hljs{display:block;overflow-x:auto;padding:1em}code.hljs{padding:3px 5px}/*!
+  Theme: StackOverflow Dark
+  Description: Dark theme as used on stackoverflow.com
+  Author: stackoverflow.com
+  Maintainer: @Hirse
+  Website: https://github.com/StackExchange/Stacks
+  License: MIT
+  Updated: 2021-05-15
+
+  Updated for @stackoverflow/stacks v0.64.0
+  Code Blocks: /blob/v0.64.0/lib/css/components/_stacks-code-blocks.less
+  Colors: /blob/v0.64.0/lib/css/exports/_stacks-constants-colors.less
+*/.hljs{
+    color:#fff;
+    background:rgb(35,35,35);
+    border: 2px dashed rgb(50,50,50);
+    border-radius: 10px;
+    margin: 10px;
+    
+}.hljs-subst{color:#fff}.hljs-comment{color:#999}.hljs-attr,.hljs-doctag,.hljs-keyword,.hljs-meta .hljs-keyword,.hljs-section,.hljs-selector-tag{color:#88aece}.hljs-attribute{color:#c59bc1}.hljs-name,.hljs-number,.hljs-quote,.hljs-selector-id,.hljs-template-tag,.hljs-type{color:#f08d49}.hljs-selector-class{color:#88aece}.hljs-link,.hljs-regexp,.hljs-selector-attr,.hljs-string,.hljs-symbol,.hljs-template-variable,.hljs-variable{color:#b5bd68}.hljs-meta,.hljs-selector-pseudo{color:#88aece}.hljs-built_in,.hljs-literal,.hljs-title{color:#f08d49}.hljs-bullet,.hljs-code{color:#ccc}.hljs-meta .hljs-string{color:#b5bd68}.hljs-deletion{color:#de7176}.hljs-addition{color:#76c490}.hljs-emphasis{font-style:italic;}.hljs-strong{font-weight:700}
