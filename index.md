@@ -10,8 +10,6 @@
 
 </div>
 
-<div style="text-align: center; margin: 20px 0;">
-
 ![Luau](https://img.shields.io/badge/luau-008080?logo=data:image/svg%2Bxml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMy41NCAxMy41NCI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiNmZmY7ZmlsbC1ydWxlOmV2ZW5vZGQ7fTwvc3R5bGU+PC9kZWZzPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTMuNjcsMmE2LjE5LDYuMTksMCwwLDAtLjk1LDIuNDhsLTEsMy44NkE2LDYsMCwwLDAsMS4yNywxMSwyLjQ5LDIuNDksMCwwLDAsMiwxMi4zM2E2LjE5LDYuMTksMCwwLDAsMi40OC45NWwzLjg2LDFhNiw2LDAsMCwwLDIuNjEuNDJBMi40OSwyLjQ5LDAsMCwwLDEyLjMzLDE0YTYuMTksNi4xOSwwLDAsMCwuOTUtMi40OGwxLTMuODZBNiw2LDAsMCwwLDE0LjczLDUsMi40OSwyLjQ5LDAsMCwwLDE0LDMuNjdhNi4xOSw2LjE5LDAsMCwwLTIuNDgtLjk1bC0zLjg2LTFBNiw2LDAsMCwwLDUsMS4yNywyLjQ5LDIuNDksMCwwLDAsMy42NywyWk05LjgxLDQuMzdhMS4xOSwxLjE5LDAsMCwwLS4xOS40OUw5LjEzLDYuN0ExLjIyLDEuMjIsMCwwLDAsOSw3LjIyYS41LjUsMCwwLDAsLjE2LjI3LDEuMzUsMS4zNSwwLDAsMCwuNDkuMTlsMS44NC40OWExLjE2LDEuMTYsMCwwLDAsLjUyLjA4LjQ5LjQ5LDAsMCwwLC4yNy0uMTUsMS40MiwxLjQyLDAsMCwwLC4xOS0uNUwxMyw1Ljc3YTEuMiwxLjIsMCwwLDAsLjA4LS41M0EuNDYuNDYsMCwwLDAsMTIuOTMsNWExLjI1LDEuMjUsMCwwLDAtLjUtLjE5TDEwLjYsNC4zYTEuMjYsMS4yNiwwLDAsMC0uNTMtLjA5QS40OC40OCwwLDAsMCw5LjgxLDQuMzdaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMS4yMyAtMS4yMykiLz48L3N2Zz4=)
 ![Lua](https://img.shields.io/badge/Lua-Script-blue?logo=lua)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -20,11 +18,6 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-</div>
-
-
-
-<hr>
 
 ## ⭐ About Me 
 Hello! I have been coding for around **5** years now. I have expierence in many languages, but I would say I've mastered only a couple, those being Lua, Luau, C#, and JavaScript.
@@ -70,7 +63,6 @@ Create a whole entire game for you. I do commissions to make profit, and working
 
 ## 📽 Past Projects (Not All)
 
-<div>
 
 #### RCS 2024 - Head Developer
 I worked for Roblox's biggest slot car and meet group back in 2024. It was a great experience and I am still with them today.
@@ -120,7 +112,6 @@ I made this media board, and it updates team rankings and you can add more teams
 <tab><img style="border-radius: 1em" src="https://tr.rbxcdn.com/180DAY-29c429d878a87f9ff802baffab0bdf19/150/150/Image/Png/noFilter">
 <img style="border-radius: 1em" src="https://tr.rbxcdn.com/180DAY-3621d80da0f5c2c9c82cda7ee4250a64/150/150/Image/Png/noFilter">
 
-</div>
 
 ---
 
