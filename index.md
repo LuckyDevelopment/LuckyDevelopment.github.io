@@ -20,7 +20,7 @@
 
 
 ## ⭐ About Me 
-Hello! I have been coding for around **5** years now. I have expierence in many languages, but I would say I've mastered only a couple, those being Lua, Luau, C#, and JavaScript.
+Hello! I have been coding for around **5** years now. I have experience in many languages, but I would say I've mastered only a couple, those being Lua, Luau, C#, and JavaScript.
 
 I have expierence in other aspects of developing too, such as GFX, modeling, and some game design.
 
@@ -28,7 +28,7 @@ I have expierence in other aspects of developing too, such as GFX, modeling, and
 
 ## ⚙️ Information 
 
-When writing code for your project, I prioritize quality. This means all code will have comments along with it, and use a modular framework to ensure compatability with other scripts in the future.
+When writing code for your project, I prioritize quality. This means all code will have comments along with it, and use a modular framework to ensure compatability with other scripts in the future. No free assets will be used.
 
 I am very fast at finishing commissions. I am a pretty fast typer (150 average wpm), and can write up what you need fast.
 
@@ -71,24 +71,24 @@ They operate within in a discord server, so make sure to check that out.
 
 I made multiple things for them, including part of a car system, global admin commands, spin the wheels, donation boards, loading screens, and a lot more.
 
-<tab><img style="border-radius: 1em" src="https://tr.rbxcdn.com/180DAY-c1cd5bb299f02091d8224f88846609d7/150/150/Image/Png/noFilter">
+<img style="border-radius: 1em" src="https://tr.rbxcdn.com/180DAY-c1cd5bb299f02091d8224f88846609d7/150/150/Image/Png/noFilter">
 
 #### Shake A Chest - Creator
 A game where you shake a chest to unlock new look, buy better chests, and either profit or lose money. It is basically a gambling game where you try to gain the most value and profit possible.
 
-<tab><img style="border-radius: 1em" src="https://tr.rbxcdn.com/180DAY-d0ff2cd04a5f364f79a5f4f5a2dc719f/150/150/Image/Webp/noFilter">
+<img style="border-radius: 1em" src="https://tr.rbxcdn.com/180DAY-d0ff2cd04a5f364f79a5f4f5a2dc719f/150/150/Image/Webp/noFilter">
 
 #### Rooms Hardcore (Old) - Creator
 A game based off of Doors, it was made a long time ago when I wasn't as good at coding but I got it to work.
 
-<tab><img style="border-radius: 1em" src="https://tr.rbxcdn.com/180DAY-3d756e8b6bc359c417c9d80fd84d314b/150/150/Image/Png/noFilter">
+<img style="border-radius: 1em" src="https://tr.rbxcdn.com/180DAY-3d756e8b6bc359c417c9d80fd84d314b/150/150/Image/Png/noFilter">
 
 #### Get some food at 3 am - Head Developer
 Small game I worked on with a friend. I am the lead developer and have scripted every thing you see in this game. If you want to know what some of my work looks like, I would recommend joining this game.
 
 Get some food at 3 am is heavily inspired from get a snack at 3 am. All assets and scripts are made by me.
 
-<tab><img style="border-radius: 1em" src="https://tr.rbxcdn.com/180DAY-b9f3cc3b6ee97b2694715b9e02d03dfd/150/150/Image/Png/noFilter">
+<img style="border-radius: 1em" src="https://tr.rbxcdn.com/180DAY-b9f3cc3b6ee97b2694715b9e02d03dfd/150/150/Image/Png/noFilter">
 
 #### Unnamed Commission - Scripter
 
@@ -104,12 +104,12 @@ I worked on rescripting a hangout game. Here is what I did.
 #### Global Voting Board - Scripter
 I made a global voting board, which players can dislike or like a car, and you can just copy and paste thousands of boards to make more polls. A global leaderboard shows the top liked cars.
 
-<tab><img style="border-radius: 1em" height=70px src="https://tr.rbxcdn.com/180DAY-35e4884dcc4195a2f832e59e482518de/150/150/Image/Png/noFilter">
+<img style="border-radius: 1em" height=70px src="https://tr.rbxcdn.com/180DAY-35e4884dcc4195a2f832e59e482518de/150/150/Image/Png/noFilter">
 
 #### Media Board - Scripter
 I made this media board, and it updates team rankings and you can add more teams to it.
 
-<tab><img style="border-radius: 1em" src="https://tr.rbxcdn.com/180DAY-29c429d878a87f9ff802baffab0bdf19/150/150/Image/Png/noFilter">
+<img style="border-radius: 1em" src="https://tr.rbxcdn.com/180DAY-29c429d878a87f9ff802baffab0bdf19/150/150/Image/Png/noFilter">
 <img style="border-radius: 1em" src="https://tr.rbxcdn.com/180DAY-3621d80da0f5c2c9c82cda7ee4250a64/150/150/Image/Png/noFilter">
 
 
